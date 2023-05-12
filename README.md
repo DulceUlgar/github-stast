@@ -1,2 +1,5 @@
-# github-stast
-mis logros en github
+mis logros en github son:
+-editar el perfil
+-crear repositorios 
+-eliminar repositorios
+-editar el contenido de los repositorios con readme
